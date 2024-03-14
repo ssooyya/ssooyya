@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     <div align= "center"> 
 <!--         <a href=https://blog.naver.com/ssooyya> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ssooyya"> </a> -->
          <a href=mailto:hskwoon7@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hskwoon7@gmail.com"> </a>
-         <a href=https://www.notion.so/13dc76cdd1d341b7a5aa3b2bbd79e1c9?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/13dc76cdd1d341b7a5aa3b2bbd79e1c9?pvs=4"> </a>
+<!--          <a href=https://www.notion.so/13dc76cdd1d341b7a5aa3b2bbd79e1c9?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/13dc76cdd1d341b7a5aa3b2bbd79e1c9?pvs=4"> </a> -->
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
