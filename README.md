@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;">
 <!--     [![ssooyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssooyya)](https://github.com/anuraghazra/github-readme-stats) -->
-        [![ssooyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssooyya&count_private=true&custom_title=ssooyya's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<!--         [![ssooyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssooyya&count_private=true&custom_title=ssooyya's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) -->
     <!-- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Developer를 꿈꾸는 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 </div>  -->
     </div>
