@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00471f,100:00d10e&height=180&text=Hi!%20&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;">
-    [![ssooyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssooyya)](https://github.com/ssooyya/github-readme-stats)
+    [![ssooyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssooyya)](https://github.com/anuraghazra/github-readme-stats)
     <!-- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Developer를 꿈꾸는 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 </div>  -->
     </div>
